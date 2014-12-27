@@ -1,2 +1,2 @@
-Odoo-Chile
+Odoo Localización para Chile
 ==========
